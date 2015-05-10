@@ -3,7 +3,7 @@ title: Aruna's blog
 email: aruna.sivaram@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Come travel with me on an exciting journey around the world.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arunagokul.github.io" # the base hostname & protocol for your site
 twitter_username: aruna.sivaram
 github_username:  arunagokul
